@@ -1,0 +1,12 @@
+﻿Build started 24.09.2016 22:26:17.
+     1>Project "C:\Users\Agnes\Documents\Visual Studio 2013\Projects\lab3zad1\lab3zad1\lab3zad1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\agnes\documents\visual studio 2013\projects\lab3zad1\lab3zad1\main.cpp(21): error C2440: 'type cast' : cannot convert from 'Rectangle' to 'Square *'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>Done Building Project "C:\Users\Agnes\Documents\Visual Studio 2013\Projects\lab3zad1\lab3zad1\lab3zad1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.84
